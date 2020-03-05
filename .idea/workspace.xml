@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YfoUVmC6PUxYdxryczIOkvxy62" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583343025647</updated>
       <workItem from="1583343027950" duration="886000" />
+      <workItem from="1583413911103" duration="24000" />
     </task>
     <servers />
   </component>
@@ -87,10 +92,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583343299078" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583343078109">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583413929256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583343078109" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583413929256" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Multiples_of_3_and_5$1.coverage" NAME="1 Coverage Results" MODIFIED="1583343299065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
